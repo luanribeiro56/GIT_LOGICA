@@ -3,13 +3,14 @@ programa
 	
 	funcao inicio()
 	{
-		escreva("eu quero ir embora")
+	
+		escreva("Mudando no cÃ³digo")
 	}
 }
 /* $$$ Portugol Studio $$$ 
  * 
- * Esta seção do arquivo guarda informações do Portugol Studio.
- * Você pode apagá-la se estiver utilizando outro editor.
+ * Esta seÃ§Ã£o do arquivo guarda informaÃ§Ãµes do Portugol Studio.
+ * VocÃª pode apagÃ¡-la se estiver utilizando outro editor.
  * 
  * @POSICAO-CURSOR = 62; 
  * @PONTOS-DE-PARADA = ;
